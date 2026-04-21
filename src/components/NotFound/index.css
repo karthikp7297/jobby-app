@@ -1,0 +1,27 @@
+.not-found-page {
+  min-height: 100vh;
+  background-color: #202020;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  text-align: center;
+  padding: 24px;
+}
+
+.not-found-img {
+  width: 320px;
+  max-width: 100%;
+}
+
+.not-found-heading {
+  color: #ffffff;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.not-found-description {
+  color: #7e858e;
+  font-size: 15px;
+}
